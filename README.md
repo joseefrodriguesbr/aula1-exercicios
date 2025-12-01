@@ -1,5 +1,5 @@
 # Pós-Graduação em Desenvolvimento Mobile e Cloud Computing – Inatel
-## DM126 - DDesenvolvimento de aplicativos em Swift para iOS
+## DM126 - Desenvolvimento de aplicativos em Swift para iOS
 
 ## 📌 Atividade
 Resolução dos exercícios da Aula 1
